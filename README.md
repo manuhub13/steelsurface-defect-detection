@@ -1,11 +1,11 @@
-# 🛠 Steel Surface Defect Detection
+#  Steel Surface Defect Detection
 
 A deep learning–based Computer Vision project to detect **six types of steel surface defects** using **Convolutional Neural Networks (CNNs)** and **OpenCV**.  
 Achieved **96% accuracy** on the NEU Surface Defect Dataset.
 
 
 
-## 📂 Project Structure
+## Project Structure
 
 steel_defect_detection/
 │
@@ -24,7 +24,7 @@ steel_defect_detection/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-## 📊 Dataset
+##  Dataset
 **NEU Surface Defect Dataset**  
 Contains 6 defect classes:
 - Crazing  
@@ -49,10 +49,13 @@ pip install -r requirements.txt
 2️. Train the model
 python src/train.py
 
-3️. Run batch predictions
+3. Predict for a single image
+python src/predict.py data/NEU-CLS/Crazing/crazing_10.jpg
+
+4. Run batch predictions
 python src/batch_predict.py
 
-4️. Evaluate predictions
+5. Evaluate predictions
 python src/eval_from_csv.py
 
 ## Results
@@ -91,6 +94,6 @@ Rolled_In_Scale       0.98      1.00      0.99       283
 
 
 ##Tech Stack
-Programming Language: Python
-Libraries: TensorFlow, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
+Programming Language: Python 3.12
+Libraries: TensorFlow/keras(Model Training), OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
 Techniques: CNN-based Image Classification, OpenCV Preprocessing, Batch Prediction, Evaluation Metrics
